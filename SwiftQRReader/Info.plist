@@ -36,5 +36,7 @@
 	</array>
 	<key>NSCameraUsageDescription</key>
 	<string>Needs camera to scan qr code</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Needs photos permission</string>
 </dict>
 </plist>
